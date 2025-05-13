@@ -11,6 +11,43 @@ This project provides an analysis of the spread of COVID-19 using confirmed case
 2. **WorldHappinessReport.csv**  
    - Provides various socio-economic indicators such as GDP per capita, social support, and health life expectancy.
 
+# COVID-19 Data Analysis Project
+
+This project analyzes the global spread of COVID-19 using time-series confirmed case data. It also explores how socio-economic factors from the World Happiness Report relate to the maximum infection rates across countries.
+
+---
+
+## 🎯 Project Objectives
+
+- To analyze the time-series progression of COVID-19 across various countries.
+- To calculate and visualize the maximum infection rate per country.
+- To integrate socio-economic indicators from the World Happiness Report.
+- To identify possible correlations between happiness indicators and infection severity.
+- To visualize the relationship between different indicators and the infection rate.
+
+---
+
+## 🧰 Tools and Libraries Used
+
+- **Python** – for data processing and analysis.
+- **Pandas** – for data manipulation.
+- **NumPy** – for numerical operations.
+- **Matplotlib** – for plotting and visualizing data.
+- **Seaborn** – for advanced visualizations and heatmaps.
+- **Scikit-learn** – for correlation analysis and data modeling.
+
+---
+
+## 🚀 How to Run or View the Project
+
+1. Clone or download the repository containing the Jupyter Notebook and datasets.
+2. Ensure the following files are in your working directory:
+   - `Covid19_Confirmed_dataset.csv`
+   - `WorldHappinessReport.csv`
+3. Launch the notebook using Jupyter:
+   ```bash
+   jupyter notebook "covid19 data analysis notebook.ipynb"
+
 ---
 
 ## 🔧 Tools and Libraries
