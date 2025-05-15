@@ -2,7 +2,7 @@
 
 This project provides an analysis of the spread of COVID-19 using confirmed case data and investigates its correlation with World Happiness Report indicators. The aim is to understand the pandemic's progression and explore how socio-economic indicators might relate to infection rates.
 
----
+--
 
 ## 📦 Datasets Used
 
